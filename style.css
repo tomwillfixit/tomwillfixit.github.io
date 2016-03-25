@@ -108,12 +108,12 @@ body, html {
 #logo {
     background: url("images/logo.png") repeat-x scroll left top transparent;
     display: block;
-    height: 80px;
+    height: 200px;
     left: 30px;
     position: absolute;
     text-indent: -9999px;
     top: -55px;
-    width: 82px;
+    width: 200px;
     z-index: 900;
 }
 
